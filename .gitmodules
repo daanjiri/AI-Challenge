@@ -1,3 +1,6 @@
 [submodule "daniel_fernandez_04_14_23/arkangel_ai_challenge"]
 	path = daniel_fernandez_04_14_23/arkangel_ai_challenge
 	url = https://github.com/defdzg/arkangel_ai_challenge.git
+[submodule "Jonathan_Torres_07112023"]
+	path = Jonathan_Torres_07112023
+	url = https://github.com/Jonathanrtc/face_emotion_detection
