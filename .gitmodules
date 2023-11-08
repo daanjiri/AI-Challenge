@@ -4,3 +4,6 @@
 [submodule "Jonathan_Torres_07112023"]
 	path = Jonathan_Torres_07112023
 	url = https://github.com/Jonathanrtc/face_emotion_detection
+[submodule "AlejandraPerez_07_11_2023"]
+	path = AlejandraPerez_07_11_2023
+	url = https://github.com/aperezr20/AI-Challenge-Alejandra-Perez.git
