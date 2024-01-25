@@ -4,3 +4,6 @@
 [submodule "Jonathan_Torres_07112023"]
 	path = Jonathan_Torres_07112023
 	url = https://github.com/Jonathanrtc/face_emotion_detection
+[submodule "daniel_jimenez_arkangel_challenge"]
+	path = daniel_jimenez_arkangel_challenge
+	url = https://github.com/daanjiri/daniel_jimenez_arkangel_challenge
